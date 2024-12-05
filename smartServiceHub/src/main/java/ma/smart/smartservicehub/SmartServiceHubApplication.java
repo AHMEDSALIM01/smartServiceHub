@@ -1,4 +1,4 @@
-package ma.smart.smartServiceHub;
+package ma.smart.smartservicehub;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
